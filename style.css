@@ -127,9 +127,10 @@ nav ul li a:hover, a.active{
 }
 #contact{
     display: none;
+    color:white;
     width:1000px;
-    height:500px;
-    margin:500px 100px 20px;
+    height:700px;
+    margin:100px 120px  20px;
     padding:50px 20px;
     background-color: indigo;
     border-radius: 10px;
